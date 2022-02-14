@@ -611,13 +611,13 @@ Publish the website in the given URL.
 ## OUTPUT:
 
 ### Home Page:
-![output]()
+![output](https://github.com/VINUTHNA-2004/bootstrapwebsite/blob/main/r1.PNG?raw=true)
 
 ### Gallery page:
-![output]()
+![output](https://github.com/VINUTHNA-2004/bootstrapwebsite/blob/main/r2.PNG?raw+true)
 
 ### About us page:
-![output]()
+![output](https://github.com/VINUTHNA-2004/bootstrapwebsite/blob/main/r3.PNG?raw=true)
 
 
 ## Result:
