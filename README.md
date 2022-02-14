@@ -611,7 +611,15 @@ Publish the website in the given URL.
 ## OUTPUT:
 
 ### Home Page:
+![output]()
+
+### Gallery page:
+![output]()
+
+### About us page:
+![output]()
 
 
 ## Result:
+the codes are successfully executed to create a webpage by using bootstrap.
 
